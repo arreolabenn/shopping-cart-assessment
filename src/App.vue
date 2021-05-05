@@ -1,30 +1,20 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <div class="global-background">
+    <router-view/>
+    <span class="add-signature"> by /arreolabenn</span>
   </div>
-  <router-view/>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<style scoped>
+  .global-background {
+    background-image: linear-gradient(to top, #EEE , #FFF);
+  }
 
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
+  .add-signature {
+    display: block;
+    text-align: right;
+    margin-top: 100px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+  }
 </style>

@@ -1,0 +1,42 @@
+[
+   {
+      "id":3,
+      "title":"Apple",
+      "src":"https://drive.google.com/uc?export=view&id=1Az42c70oP6X0OEGNydxgxOgb1V1u8nM5",
+      "icon":"https://drive.google.com/uc?export=view&id=1jNdpS2VtPpXc_MoHmO1bvjBClEzoYJSr",
+      "content":"Millions saw the apple fall, but Newton was the one who asked why. (Bernard Baruch)",
+      "quantity":0
+   },
+   {
+      "id":6,
+      "title":"Banana",
+      "src":"https://drive.google.com/uc?export=view&id=1U48e7lmw_zHHprRRHpMoGSFslrGGwi7L",
+      "icon":"https://drive.google.com/uc?export=view&id=1hi212Zu7kUAr-cSHQ_dtwHwz5tEvodqW",
+      "content":"Intellectual property has the shelf life of a banana. (Bill Gates)",
+      "quantity":0
+   },
+   {
+      "id":12,
+      "title":"Grapes",
+      "src":"https://drive.google.com/uc?export=view&id=1FVjmG_Yv6Rp9w-QsZpwZmgqI1jtOMBDZ",
+      "icon":"https://drive.google.com/uc?export=view&id=1nlutR8CM4svNWLNST0FQiTK3thDxMtAs",
+      "content":"You cannot eat a cluster of grapes at once, but it is very easy if you eat them one by one. (Jacques Roumain)",
+      "quantity":0
+   },
+   {
+      "id":24,
+      "title":"Mango",
+      "src":"https://drive.google.com/uc?export=view&id=1wj6ZcKYrd5CvjWecR5E8waWBoQWlOxwJ",
+      "icon":"https://drive.google.com/uc?export=view&id=1WUdnsmFDeKw2btvT21cskXVSbeDsU9s8",
+      "content":"If you wait for the mango fruits to fall, you'd be wasting your time while others are learning how to climb the tree. (Michael Bassey Johnson)",
+      "quantity":0
+   },
+   {
+      "id":48,
+      "title":"Orange",
+      "src":"https://drive.google.com/uc?export=view&id=1D4yVvLEfgcIR2VCJezgicWPS5uDrbaF8",
+      "icon":"https://drive.google.com/uc?export=view&id=1RKKZFDr8AAc2rUgZetvBNdwDryILh2m-",
+      "content":"I squeeze oranges every morning to make juice. (Utada Hikaru)",
+      "quantity":0
+   }
+]
