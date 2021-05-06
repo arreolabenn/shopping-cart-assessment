@@ -1,2 +1,2 @@
 # shopping-cart-assessment
-- live version: (unavailable. will update soon)
+- live version: https://nmstaffing-fe-assessment.herokuapp.com/
