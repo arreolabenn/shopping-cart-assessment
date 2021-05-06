@@ -18,7 +18,7 @@
             <div class="custom-input-container">
                 <div class="field has-addons">
                   <div class="control">
-                    <input class="input" type="number" min="0" :ref="`storeInput_${item.id}`" value="0">
+                    <input class="input" type="number" min="0" :ref="`storeInput_${item.id}`" value="1">
                   </div>
                   <div class="control">
                     <button class="button is-success" @click="addItem(item.id, `storeInput_${item.id}`)">
